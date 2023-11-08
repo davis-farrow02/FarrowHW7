@@ -1,5 +1,9 @@
-// comment
+/* code name: bankApp.cpp
+   code by: Davis Farrow
 
+   this code is for CPE 422 HW 7 problem 3
+   this code is the application code for the class created in bankAccount.h
+*/
 #include "bankAccount.h"
 
 int main(int argc, char* argv[]) {
